@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Adhith 👋<br><br>🚀 Passionate about building full-stack applications, custom Linux distros, and AI-powered security tools. I also love solving Capture the Flag (CTF) challenges and diving deep into cybersecurity research.<br>🔭 I’m currently working on [HoneySentinel-AI](https://github.com/adithG17/Honeysentinel-AI)<br>👯 I’m looking to collaborate on Open-Source Projects<br>🌱 I’m currently learning Red Teaming & Advanced Concepts in Java<br>
+Hi, I’m Adhith 👋<br><br>🚀 Passionate about building Web applications, custom Linux distros, and AI-powered security tools. I also love solving Capture the Flag (CTF) challenges and diving deep into cybersecurity research.<br>🔭 I’m currently working on [HoneySentinel-AI](https://github.com/adithG17/Honeysentinel-AI)<br>👯 I’m looking to collaborate on Open-Source Projects<br>🌱 I’m currently learning Red Teaming & Advanced Concepts in Java<br>
 
 
 ## 🌐 Socials:
